@@ -1,0 +1,578 @@
+[
+    {
+        "id": 1,
+        "capitulo": 1,
+        "pergunta": "Em 1800, em que cidade Portuguesa surge a primeira embarcação salva-vidas?",
+        "opcoes": [
+            "Faro",
+            "Lisboa",
+            "Porto",
+            "Aveiro"
+        ],
+        "resposta": "Porto"
+    },
+    {
+        "id": 2,
+        "capitulo": 1,
+        "pergunta": "Em que ano se realizou o primeiro curso de Nadador-Salvador (NS) em Portugal?",
+        "opcoes": [
+            "1955",
+            "1956",
+            "1909",
+            "2000"
+        ],
+        "resposta": "1956"
+    },
+    {
+        "id": 3,
+        "capitulo": 1,
+        "pergunta": "Em que ano o Real Instituto Socorros a Náufragos (RISN) criou o primeiro serviço de assistência a banhistas nas praias?",
+        "opcoes": [
+            "1910",
+            "1909",
+            "1957",
+            "1892"
+        ],
+        "resposta": "1909"
+    },
+    {
+        "id": 4,
+        "capitulo": 1,
+        "pergunta": "Em que ano o Instituto de Socorros a Náufragos (ISN) se tornou membro fundador da International Life Saving Federation (ILS)?",
+        "opcoes": [
+            "1995",
+            "1998",
+            "2000",
+            "1993"
+        ],
+        "resposta": "1993"
+    },
+    {
+        "id": 5,
+        "capitulo": 1,
+        "pergunta": "O Instituto Socorros a Náufragos (ISN), assegura o reconhecimento e certificação nos seguintes domínios da atividade do Nadador-Salvador (NS):",
+        "opcoes": [
+            "Nadador-Salvador (NS)",
+            "Cursos e entidades formadoras",
+            "Material e equipamento",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Todas as respostas estão corretas"
+    },
+    {
+        "id": 6,
+        "capitulo": 1,
+        "pergunta": "Qual o órgão regulador a nível Nacional na estrutura da Autoridade Marítima Nacional (AMN), competente para o reconhecimento das qualificações profissionais, no âmbito da profissão regulamentada prevista na alínea b) do nº1 do artigo 2º, da portaria 88/2012 de 30 de março?",
+        "opcoes": [
+            "Instituto Socorros a Náufragos (ISN)",
+            "Direção-Geral da Autoridade Marítima (DGAM)",
+            "Polícia Marítima (PM)",
+            "Escola de Autoridade Marítima (EAM)"
+        ],
+        "resposta": "Instituto Socorros a Náufragos (ISN)"
+    },
+    {
+        "id": 7,
+        "capitulo": 1,
+        "pergunta": "Em que ano foi criado o Real Instituto de Socorros a Náufragos (RISN) e por quem?",
+        "opcoes": [
+            "Em 1883, pelo Rei D. Carlos",
+            "Em 1892, pela Rainha D. Amélia",
+            "Em 1901, pelo Rei D. Carlos",
+            "Em 1910, pela Rainha D. Amélia"
+        ],
+        "resposta": "Em 1892, pela Rainha D. Amélia"
+    },
+    {
+        "id": 8,
+        "capitulo": 1,
+        "pergunta": "O Real Instituto de Socorros a Náufragos (RISN), foi criado pela:",
+        "opcoes": [
+            "Rainha D. Amélia",
+            "Rainha D. Amália",
+            "Rainha D. Leonor",
+            "Rainha D. Beatriz"
+        ],
+        "resposta": "Rainha D. Amélia"
+    },
+    {
+        "id": 9,
+        "capitulo": 1,
+        "pergunta": "Em que ano, o Real Instituto de Socorros a Náufragos (RISN), passou a designar-se pelo atual nome, Instituto de Socorros a Náufragos (ISN)?",
+        "opcoes": [
+            "Em 1910",
+            "Em 1892",
+            "Em 1990",
+            "Em 1882"
+        ],
+        "resposta": "Em 1910"
+    },
+    {
+        "id": 10,
+        "capitulo": 1,
+        "pergunta": "Atualmente, o Instituto de Socorros a Náufragos (ISN), é um organismo de que estrutura?",
+        "opcoes": [
+            "Direção-Geral da Autoridade Marítima (DGAM)",
+            "Direção Geral de Viação (DGV)",
+            "Direção da Defesa Nacional (DDN)",
+            "Autoridade Nacional de Proteção Civil (ANPC)"
+        ],
+        "resposta": "Direção-Geral da Autoridade Marítima (DGAM)"
+    },
+    {
+        "id": 11,
+        "capitulo": 1,
+        "pergunta": "Em que praia portuguesa, o Real Instituto de Socorros a Náufragos (RISN), criou o primeiro serviço de assistência a banhistas?",
+        "opcoes": [
+            "Na praia da Trafaria",
+            "Na praia de Caxias",
+            "Na praia de Albufeira",
+            "Na praia de Algés"
+        ],
+        "resposta": "Na praia da Trafaria"
+    },
+    {
+        "id": 12,
+        "capitulo": 1,
+        "pergunta": "O ano de 1995 foi particularmente importante para a segurança nas praias, atendendo que nesse ano, surgiram novos meios de salvamento aquático, nomeadamente:",
+        "opcoes": [
+            "O cinto de Salvamento",
+            "A boia torpedo",
+            "A prancha de salvamento",
+            "Todas as respostas estão certas"
+        ],
+        "resposta": "Todas as respostas estão certas"
+    },
+    {
+        "id": 13,
+        "capitulo": 1,
+        "pergunta": "Compete ao Instituto de Socorros a Náufragos (ISN):",
+        "opcoes": [
+            "Autuar os concessionários quando o material do posto de praia não se encontre em perfeitas condições de utilização",
+            "Celebrar contratos de Nadador-Salvador (NS)",
+            "Informar as entidades requerentes sobre a organização do respetivo processo de certificação",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Informar as entidades requerentes sobre a organização do respetivo processo de certificação"
+    },
+    {
+        "id": 14,
+        "capitulo": 1,
+        "pergunta": "Qual a entidade que compete promover as ações necessárias para a avaliação externa do sistema?",
+        "opcoes": [
+            "Autoridade Marítima Nacional (AMN)",
+            "Instituto de Socorros a Náufragos (ISN)",
+            "Associações Nadadores--Salvadores (ANS)",
+            "Capitanias locais"
+        ],
+        "resposta": "Instituto de Socorros a Náufragos (ISN)"
+    },
+    {
+        "id": 15,
+        "capitulo": 1,
+        "pergunta": "O Instituto de Socorros a Náufragos (ISN) é responsável pela doutrina da assistência a banhistas, certificando os Nadadores-Salvadores (NS) para:",
+        "opcoes": [
+            "A prestação da assistência a banhistas nas piscinas privadas",
+            "A prestação de socorro a nível nacional e internacional",
+            "A prestação da assistência a banhistas nos espaços aquáticos a nível nacional",
+            "A nível nacional a prestação de socorro e assistência a banheiros"
+        ],
+        "resposta": "A prestação da assistência a banhistas nos espaços aquáticos a nível nacional"
+    },
+    {
+        "id": 16,
+        "capitulo": 1,
+        "pergunta": "A quem compete definir as especificações técnicas dos materiais e equipamentos destinados às atividades de informação, apoio, vigilância, segurança, socorro a náufragos e salvamento prestado a banhistas?",
+        "opcoes": [
+            "À Autoridade Marítima Local",
+            "Às autoridades Locais",
+            "Ao Instituto de Socorros a Náufragos (ISN)",
+            "À Capitania do Porto"
+        ],
+        "resposta": "Ao Instituto de Socorros a Náufragos (ISN)"
+    },
+    {
+        "id": 17,
+        "capitulo": 1,
+        "pergunta": "Ao abrigo da Lei n.º 68/2014 artigo 32.º, atividade de Nadador-Salvador (NS) está sujeita a controlo e fiscalizações técnicas periódicas, são da competência de:",
+        "opcoes": [
+            "Autoridade Marítima Nacional (AMN), Polícia Marítima (PM) e Guarda Nacional Republicana (GNR)",
+            "Órgão Local Autoridade Marítima Nacional, Instituto de Socorros a Náufragos (ISN) e Agência Portuguesa do Ambiente (APA)",
+            "Autoridade Marítima Nacional (AMN), Instituto de Socorros a Náufragos (ISN) e Polícia Segurança Pública (PSP)",
+            "Autoridade Marítima Nacional (AMN), Guarda Nacional Republicana (GNR) e Agência Portuguesa do Ambiente (APA)"
+        ],
+        "resposta": "Órgão Local Autoridade Marítima Nacional, Instituto de Socorros a Náufragos (ISN) e Agência Portuguesa do Ambiente (APA)"
+    },
+    {
+        "id": 18,
+        "capitulo": 1,
+        "pergunta": "O Decreto-Lei n.º 96-A/2006 de 2 de junho, aprovou o regime contraordenacional. A não participação de acidentes na Zona de Assistência a Banhistas (ZAB) à autoridade marítima no prazo de 24 horas, é punível com:",
+        "opcoes": [
+            "Coima de 100€ a 1000€ a pagar pelo Nadador-Salvador (NS)",
+            "Coima de 100€ a 1000€ a pagar pelo titular da licença da Zona de Assistência a Banhistas (ZAB)",
+            "Coima de 250€ a 2500€ a pagar pelo Nadador-Salvador (NS)",
+            "Coima de 250€ a 2500€ a pagar pelo titular de licença ou concessões de Zona de Assistência a Banhistas (ZAB)"
+        ],
+        "resposta": "Coima de 250€ a 2500€ a pagar pelo titular de licença ou concessões de Zona de Assistência a Banhistas (ZAB)"
+    },
+    {
+        "id": 19,
+        "capitulo": 1,
+        "pergunta": "Qual a entidade competente para a coordenação e controlo das ações de fiscalização da conformidade do exercício da atividade de Nadador-Salvador (NS) profissional?",
+        "opcoes": [
+            "Autoridade Marítima Nacional (AMN)",
+            "Instituto de Socorros a Náufragos (ISN)",
+            "Agência Portuguesa do Ambiente (APA)",
+            "Câmaras Municipais (CM), Agência Portuguesa do Ambiente (APA) e Instituto de Socorros a Náufragos (ISN)"
+        ],
+        "resposta": "Instituto de Socorros a Náufragos (ISN)"
+    },
+    {
+        "id": 20,
+        "capitulo": 1,
+        "pergunta": "A atividade de Nadador-Salvador (NS) está sujeita a controlo e fiscalizações técnicas periódicas, a efetuar por?",
+        "opcoes": [
+            "Autoridade Marítima Nacional (AMN)",
+            "Instituto de Socorros a Náufragos (ISN)",
+            "Agência Portuguesa do Ambiente (APA)",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Todas as respostas estão corretas"
+    },
+    { 
+        "id": 21,
+        "capitulo": 2,
+        "pergunta": "Indique qual a sequência correta nas categorias de progressão de carreira do Nadador-Salvador (NS) em Portugal?",
+        "opcoes": [
+            "Nadador-Salvador, Nadador-Salvador Coordenador (NSC) e Nadador-Salvador Formador (NSF)",
+            "Nadador-Salvador, Nadador-Salvador Formador (NSF) e Nadador-Salvador Coordenador (NSC)",
+            "Nadador-Salvador, Nadador-Salvador Coordenador (NSC) e Nadador-Salvador Reformado (NSR)",
+            "Nadador-Salvador Formador (NSF), Nadador-Salvador e Nadador-Salvador Coordenador (NSC)"
+        ],
+        "resposta": "Nadador-Salvador, Nadador-Salvador Coordenador (NSC) e Nadador-Salvador Formador (NSF)"
+    },
+    {
+        "id": 22,
+        "capitulo": 2,
+        "pergunta": "Qual das seguintes afirmações, constitui um mecanismo imprescindível de defesa e de prova da correta atuação do Nadador-Salvador (NS)?",
+        "opcoes": [
+            "Efetuar um salvamento com o meio correto",
+            "O preenchimento cuidadoso dos relatórios de salvamento",
+            "Ter pelo menos duas testemunhas",
+            "O Nadador-Salvador não precisa de provas para a defesa da sua atuação"
+        ],
+        "resposta": "O preenchimento cuidadoso dos relatórios de salvamento"
+    },
+    {
+        "id": 23,
+        "capitulo": 2,
+        "pergunta": "Complete a seguinte afirmação escolhendo a opção correta? Após qualquer tipo de ocorrência é obrigatório e fundamental _____para aumentar a qualidade do serviço prestado.",
+        "opcoes": [
+            "praticar exercício físico",
+            "preencher o relatório",
+            "acompanhar a vítima ao hospital",
+            "chamar o 112"
+        ],
+        "resposta": "preencher o relatório"
+    },
+    {
+        "id": 24,
+        "capitulo": 2,
+        "pergunta": "O Nadador-Salvador (NS) tem direitos e deveres que caracterizam o exercício da sua função. Qual destes é um direito?",
+        "opcoes": [
+            "Possuir um seguro profissional adequado à atividade",
+            "Assegurar a vigilância do plano de água munido do meio de salvamento",
+            "Auxiliar e advertir os banhistas para situações de risco",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Possuir um seguro profissional adequado à atividade"
+    },
+    {
+        "id": 25,
+        "capitulo": 2,
+        "pergunta": "Que conselhos deve o Nadador-Salvador (NS) transmitir sobre a exposição solar?",
+        "opcoes": [
+            "Aplicar protetor solar 30 minutos antes da exposição ao sol",
+            "Não exponha crianças com menos de três anos de idade ao sol",
+            "Faça períodos curtos de exposição solar",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Todas as respostas estão corretas"
+    },
+    {
+        "id": 26,
+        "capitulo": 2,
+        "pergunta": "A desidratação do Nadador-Salvador (NS) pode ser prevenida:",
+        "opcoes": [
+            "Comendo refeições balanceadas antes do turno e durante os intervalos",
+            "Beber bebidas com cafeína e/ou açúcar",
+            "Ingerir bebidas alcoólicas",
+            "Ingerir pouca água durante o seu turno"
+        ],
+        "resposta": "Comendo refeições balanceadas antes do turno e durante os intervalos"
+    },
+    {
+        "id": 27,
+        "capitulo": 2,
+        "pergunta": "Faz parte da conduta do Nadador-Salvador (NS):",
+        "opcoes": [
+            "Atenção, postura, companheirismo e dignidade",
+            "Comunicação, prevenção, dignidade e dedicação",
+            "Companheirismo, atenção, assíduo, prevenção e comunicação",
+            "Prevenção, companheirismo, dignidade, comunicação e atenção"
+        ],
+        "resposta": "Prevenção, companheirismo, dignidade, comunicação e atenção"
+    },
+    {
+        "id": 28,
+        "capitulo": 2,
+        "pergunta": "O Nadador-Salvador (NS) encontra-se devidamente uniformizado quando envergue pelo menos, os seguintes artigos do uniforme:",
+        "opcoes": [
+            "Apiro, pés de pato, cinto de salvamento e camisola de manga curta",
+            "Apiro, boia torpedo, pés de pato e camisola de manga curta",
+            "Apiro, pés de pato, camisola de manga curta e calção de banho (M/F)",
+            "Apiro, calção de banho (M/F), pés de pato e corta-vento"
+        ],
+        "resposta": "Apiro, pés de pato, camisola de manga curta e calção de banho (M/F)"
+    },
+    {
+        "id": 29,
+        "capitulo": 2,
+        "pergunta": "A aquisição do uniforme do Nadador-Salvador (NS) é da responsabilidade do:",
+        "opcoes": [
+            "Nadador-salvador",
+            "Concessionário",
+            "Associação de Nadadores salvadores (ANS)",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Nadador-salvador"
+    },
+    {
+        "id": 30,
+        "capitulo": 2,
+        "pergunta": "Quais as categorias de Nadador-Salvador (NS) que conhece?",
+        "opcoes": [
+            "Nadador-salvador profissional (NSP) e Nadador Salvador voluntário (NSV)",
+            "Nadador salvador profissional (NSP) e Nadador Salvador examinador (NSE)",
+            "Nadador Salvador Coordenador (NSC) e Nadador Salvador Profissional (NSP)",
+            "Nadador Salvador Formador (NSF) e Nadador Salvador chefe de equipa (NSCH)"
+        ],
+        "resposta": "Nadador Salvador Coordenador (NSC) e Nadador Salvador Profissional (NSP)"
+    },
+    {
+        "id": 31,
+        "capitulo": 2,
+        "pergunta": "São deveres gerais do Nadador-Salvador (NS):",
+        "opcoes": [
+            "Socorrer banhistas em situações de perigo, de emergência ou acidente",
+            "Possuir um seguro profissional adequado à atividade",
+            "Colaborar com o Instituto de Socorros a Náufragos (ISN) na elaboração de planos de emergência",
+            "Dispor de uniforme adequado"
+        ],
+        "resposta": "Socorrer banhistas em situações de perigo, de emergência ou acidente"
+    },
+    {
+        "id": 32,
+        "capitulo": 2,
+        "pergunta": "O Nadador-Salvador (NS) deve içar a bandeira de xadrez em que situações?",
+        "opcoes": [
+            "Necessita de ir à casa de banho e assim consegue avisar os restantes NS da sua ausência",
+            "Realiza um salvamento, garantindo assim que o concessionário ligue para o 112",
+            "Existir trovoada e relâmpagos, para informar os banhistas que a praia tem de estar temporariamente desocupada",
+            "Em casos excecionais e de reconhecida emergência"
+        ],
+        "resposta": "Em casos excecionais e de reconhecida emergência"
+    },
+    {
+        "id": 33,
+        "capitulo": 2,
+        "pergunta": "Onde deve o Nadador-Salvador (NS) registar cuidadosamente todas as ocorrências?",
+        "opcoes": [
+            "Na folha de registo do concessionário",
+            "Na agenda semanal",
+            "No bloco de notas",
+            "Nos relatórios"
+        ],
+        "resposta": "Nos relatórios"
+    },
+    {
+        "id": 34,
+        "capitulo": 2,
+        "pergunta": "Após qualquer tipo de ocorrência na praia, o Nadador-Salvador (NS) é obrigado a preencher que tipo de documento?",
+        "opcoes": [
+            "O relatório de salvamento",
+            "O relatório de ocorrências",
+            "Só é obrigado a preencher o relatório de salvamento se o acidente for grave",
+            "Não existe nenhum documento específico"
+        ],
+        "resposta": "O relatório de salvamento"
+    },
+    {
+        "id": 35,
+        "capitulo": 2,
+        "pergunta": "O Nadador-Salvador (NS) tem deveres e direitos no exercício das suas funções. Qual das seguintes afirmações é um dever geral?",
+        "opcoes": [
+            "Colaborar a título excecional com os banhistas",
+            "Não comparecer ao serviço com assiduidade",
+            "Participar em ações de treino, simulacros de salvamento marítimo ou em outro meio aquático",
+            "Exercer a atividade a título remunerado ou gratuito"
+        ],
+        "resposta": "Participar em ações de treino, simulacros de salvamento marítimo ou em outro meio aquático"
+    },
+    {
+        "id": 36,
+        "capitulo": 2,
+        "pergunta": "O Nadador-Salvador (NS) tem deveres e direitos no exercício das suas funções. Qual das seguintes é um direito?",
+        "opcoes": [
+            "Colaborar com os agentes de autoridade ou com outras entidades em matéria de segurança a banhistas",
+            "Não comparecer ao serviço com assiduidade",
+            "Participar em ações de treino, simulacros de salvamento marítimo ou aquático",
+            "Possuir um seguro profissional adequado à atividade"
+        ],
+        "resposta": "Possuir um seguro profissional adequado à atividade"
+    },
+    {
+        "id": 37,
+        "capitulo": 2,
+        "pergunta": "Vigiar a forma como decorrem os banhos em caso de acidente pessoal ocorrido com banhistas ou de alteração das condições meteorológicas, são:",
+        "opcoes": [
+            "Deveres especiais do Nadador-Salvador (NS)",
+            "Direitos do Nadador-Salvador (NS)",
+            "Deveres gerais do Nadador-Salvador (NS)",
+            "Outros direitos do Nadador-Salvador (NS)"
+        ],
+        "resposta": "Deveres gerais do Nadador-Salvador (NS)"
+    },
+    {
+        "id": 38,
+        "capitulo": 2,
+        "pergunta": "Socorrer os banhistas em situações de perigo, de emergência ou de acidente, são:",
+        "opcoes": [
+            "Deveres especiais do Nadador-Salvador (NS)",
+            "Direitos do Nadador-Salvador (NS)",
+            "Deveres gerais do Nadador-Salvador (NS)",
+            "Outros direitos do Nadador-Salvador (NS)"
+        ],
+        "resposta": "Deveres gerais do Nadador-Salvador (NS)"
+    },
+    {
+        "id": 39,
+        "capitulo": 2,
+        "pergunta": "Participar em ações de treino, simulacros de salvamento marítimo ou em outro meio aquático e outros exercícios com características similares, é:",
+        "opcoes": [
+            "Um dever do Nadador-Salvador (NS)",
+            "Um dever extraordinário do Nadador-Salvador (NS)",
+            "Um dever especial do Nadador-Salvador (NS)",
+            "Facultativo"
+        ],
+        "resposta": "Um dever do Nadador-Salvador (NS)"
+    },
+    {
+        "id": 40,
+        "capitulo": 2,
+        "pergunta": "São fatores que contribuem para a ocorrência de acidentes de trabalho:",
+        "opcoes": [
+            "Rotina, ausência de medidas de segurança e fadiga",
+            "Fadiga e rotatividade do posto de trabalho",
+            "Negligência dos banhistas, medidas de segurança e fadiga",
+            "Excesso de medidas de proteção"
+        ],
+        "resposta": "Rotina, ausência de medidas de segurança e fadiga"
+    },
+    {
+        "id": 41,
+        "capitulo": 2,
+        "pergunta": "Após uma intervenção do Nadador-Salvador (NS) numa piscina, que documento terá de preencher?",
+        "opcoes": [
+            "Relatório de praia, no prazo de 24 h",
+            "Relatório de ocorrências, no prazo de 48 h no portal da capitania on-line",
+            "Relatório de acidente em piscina, logo que possível",
+            "Relatório de ocorrência, no prazo de 24 h"
+        ],
+        "resposta": "Relatório de ocorrência, no prazo de 24 h"
+    },
+    {
+        "id": 42,
+        "capitulo": 2,
+        "pergunta": "Faz parte da conduta do Nadador-Salvador (NS):",
+        "opcoes": [
+            "Prevenção",
+            "Companheirismo",
+            "Dignidade",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Todas as respostas estão corretas"
+    },
+    {
+        "id": 43,
+        "capitulo": 2,
+        "pergunta": "Dispor dos meios e equipamentos adequados afetos à segurança, vigilância, socorro, salvamento e assistência aos banhistas, são:",
+        "opcoes": [
+            "Direitos do Nadador-Salvador (NS)",
+            "Deveres gerais do Nadador-Salvador (NS)",
+            "Deveres especiais do Nadador-Salvador (NS)",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Direitos do Nadador-Salvador (NS)"
+    },
+    {
+        "id": 44,
+        "capitulo": 2,
+        "pergunta": "No exercício das suas funções o Nadador-Salvador (NS) deve ter sempre presente que:",
+        "opcoes": [
+            "Pode desempenhar tarefas estranhas á sua atividade",
+            "Deve efetuar uma tentativa de salvamento caso exista um grande risco de segurança de vida",
+            "Não é agente de Autoridade, nem seu substituto",
+            "Não deve efetuar um salvamento mesmo fora da sua área de responsabilidade"
+        ],
+        "resposta": "Não é agente de Autoridade, nem seu substituto"
+    },
+    {
+        "id": 45,
+        "capitulo": 2,
+        "pergunta": "Assegurar a vigilância do plano de água, munido do meio de salvamento, é um:",
+        "opcoes": [
+            "Dever geral",
+            "Dever especial",
+            "Uma recomendação",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Dever geral"
+    },
+    {
+        "id": 46,
+        "capitulo": 2,
+        "pergunta": "Dispor de uniforme adequado que obedeça às especificações técnicas legalmente estabelecidas, são:",
+        "opcoes": [
+            "Direitos do Nadador-Salvador (NS)",
+            "Deveres gerais do Nadador-Salvador (NS)",
+            "Deveres especiais do Nadador-Salvador (NS)",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Deveres gerais do Nadador-Salvador (NS)"
+    },
+    {
+        "id": 47,
+        "capitulo": 2,
+        "pergunta": "O relatório de salvamento deve ser preenchido em que situações?",
+        "opcoes": [
+            "Picada peixe-aranha",
+            "Criança perdida",
+            "Paragem digestiva",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Todas as respostas estão corretas"
+    },
+    {
+        "id": 48,
+        "capitulo": 2,
+        "pergunta": "Uma das funções mais importantes do Nadador-Salvador (NS) é a prevenção das situações de perigo informando e aconselhando os banhistas para potenciais incidentes e acidentes. Indique quais os principais conselhos a dar aos banhistas?",
+        "opcoes": [
+            "Não vire as costas às ondas e ao mar, tome banho nas áreas indicadas como zonas de banho",
+            "Se se sentir cansado procure flutuar e procure sempre tomar banhos ou nadar acompanhado",
+            "Não hesite em pedir socorro quando em dificuldade, se sentir frio saia imediatamente da água",
+            "Todas as respostas estão corretas"
+        ],
+        "resposta": "Todas as respostas estão corretas"
+    }
+]
