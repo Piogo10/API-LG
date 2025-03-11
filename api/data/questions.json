@@ -153,7 +153,7 @@
             "Informar as entidades requerentes sobre a organização do respetivo processo de certificação",
             "Todas as respostas estão corretas"
         ],
-        "resposta": "Todas as respostas estão corretas"
+        "resposta": "Informar as entidades requerentes sobre a organização do respetivo processo de certificação"
     },
     {
         "id": 14,
@@ -717,7 +717,7 @@
             "Deveres do Nadador-Salvador (NS)",
             "Recomendações do Nadador-Salvador (NS)"
         ],
-        "resposta": "Deveres do Nadador-Salvador (NS)"
+        "resposta": "Recomendações do Nadador-Salvador (NS)"
     },
     {
         "id": 61,
@@ -1053,7 +1053,7 @@
             "Agueiros",
             "Retornos"
         ],
-        "resposta": "Funil ou escoadouro"
+        "resposta": "Retornos"
     },
     {
         "id": 89,
@@ -1665,7 +1665,7 @@
             "Náufrago encontra-se mais para trás",
             "Náufrago submerso"
         ],
-        "resposta": "Pedido de 2º ajuda"
+        "resposta": "Náufrago submerso"
     },
     {
         "id": 140,
